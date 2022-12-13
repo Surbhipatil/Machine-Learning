@@ -24,7 +24,7 @@ supervised learning is basically of two types:
 
 Regression algorithms are used when the output variable is continuous value.
 
-
+![download (1)](https://user-images.githubusercontent.com/112484744/207418149-9f66b8b4-bb0f-4f07-954b-cd25c8a1c22e.png)
 
 Below are some popular Regression algorithm which comes under supervised learning:
 * Linear Regression
