@@ -16,7 +16,7 @@ There are three subcategories of machine learning:
 ## Supervised Machine Learning
 In supervised learning, a model is able to predict with the help of labelled dataset.
 
-
+![download](https://user-images.githubusercontent.com/112484744/207417740-7c6ef3cf-ad5d-49ba-a14f-25565d7ba2cb.png)
 
 supervised learning is basically of two types:
 
