@@ -98,7 +98,7 @@ This reduces the data in a high dimensional space to a lower dimension space, i.
 * Hierarchal clustering
 * Mean-shift
 * DBSCAN
-* principal Component Analysis
+* Principal Component Analysis
 
 ## Advantages of unsupervised learning
 * It is used for more complex tasks.
@@ -108,7 +108,3 @@ This reduces the data in a high dimensional space to a lower dimension space, i.
 * Less accuracy.
 * Time consuming. 
 * More the features, more the complexity.
-
-screenshot
-
-There are three subcategories of machine learning:
