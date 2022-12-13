@@ -38,7 +38,7 @@ Below are some popular Regression algorithm which comes under supervised learnin
 Classification algorithms are used when the output variable is categorical, which means there are two classes such as 
 Yes-No, Male-Female,etc.
 
-
+![download (2)](https://user-images.githubusercontent.com/112484744/207418438-595d60bb-1582-490c-b7a4-90b787a2c63a.png)
 
 Below are some popular Classification algorithms which comes under supervised learning:
 * Logistic Regression
