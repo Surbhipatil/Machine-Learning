@@ -74,6 +74,7 @@ In unsupervised learning, the algorithm is trained using data that is unlabelled
 
 Models itself find the hidden patterns and insights from the given data.
 
+![download (3)](https://user-images.githubusercontent.com/112484744/207418964-468a0e4d-114b-459f-8af7-e6228636b393.png)
 
 
 Unsupervised learning is basically of two types:
