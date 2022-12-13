@@ -3,7 +3,7 @@
 
 Machine learning is the science of making computers learn and act like humans by feeding data and information without being explicitly programmed. 
 
-
+![Screenshot 2022-12-08 174412](https://user-images.githubusercontent.com/112484744/207415168-f7cb1c63-f44e-496f-9cf4-5ece4edb556a.jpg)
 
 There are three subcategories of machine learning:
 
