@@ -19,7 +19,7 @@ In Supervised learning, a model is able to predict with the help of labelled dat
 
 Supervised learning can be further divided into two types of problems:
 #### 1. Regression: 
-It is used to understand the relationship between dependent and independent variables. When the output variable is real or continuous value, we make use of classification.
+It is used to understand the relationship between dependent and independent variables. When the output variable is real or continuous value, we make use of regression.
 
 #### 2. Classification:
 When the output variable is categorical i.e. with two or more classes(yes/no, true/false), we make use of classification.
