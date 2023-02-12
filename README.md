@@ -3,8 +3,7 @@ Machine learning is an application of artificial intelligence that provides syst
 
 Machine Learning enables computers to behave like human beings by training them with the help of past experience and predicted data.
 
-s
-
+![ML](https://user-images.githubusercontent.com/112484744/218328805-2ac5dd3b-6b50-438a-80de-b57fafd5ac05.png)
 
 ### Classification of Machine Learning
 
@@ -16,8 +15,7 @@ Machine Learning can be classified into three types:
 ### 1. Supervised Learning
 In Supervised learning, a model is able to predict with the help of labelled dataset.
 
-s
-
+![supervised](https://user-images.githubusercontent.com/112484744/218328866-f5cfb373-c935-41b2-b01f-d5e9ab62a55c.png)
 
 Supervised learning can be further divided into two types of problems:
 #### 1. Regression: 
@@ -34,37 +32,37 @@ When there is only one independent variable and one dependent variable, it is kn
 
 For each type of linear regression, it seeks to plot a line of best fit. However, unlike other regression models, this line is straight when plotted on a graph.
 
-s
+![linear R](https://user-images.githubusercontent.com/112484744/218328940-c0bc913b-2b0b-4796-9f52-4f79d048356d.png)
 
 ### Logistic Regression
 While linear regression is used when dependent variables are continuous, logistical regression is selected when the dependent variable is categorical, meaning they have binary outputs, such as "true" and "false" or "yes" and "no." While both regression models seek to understand relationships between data inputs, logistic regression is mainly used to solve binary classification problems, such as spam identification.
 
-s
+![logistic R](https://user-images.githubusercontent.com/112484744/218328973-72bcd80f-97ad-4770-a4d9-4ed15db15b6f.png)
 
 ### K-Nearest Neighbor
-s
+![knn](https://user-images.githubusercontent.com/112484744/218329000-eebf48c2-75ee-44bb-aaad-b1efd589851c.png)
 
 ### Random Forest
-s 
+![RF](https://user-images.githubusercontent.com/112484744/218329033-4ea9758d-a2fa-410f-804a-9f0cff0f51ac.png)
 
 ### Support Vector Machine (SVM) 
-s 
+![svm](https://user-images.githubusercontent.com/112484744/218329062-abdbe026-5d9b-45ff-af0a-8d504d269fc7.png)
 
 ### Naive Bayes
 
 ### Advantages of Supervised Learning:
- With the help of supervised learning, the model can predict the output on the basis of prior experiences.
+ 1. With the help of supervised learning, the model can predict the output on the basis of prior experiences.
 
- In supervised learning, we can have an exact idea about the classes of objects.
+ 2. In supervised learning, we can have an exact idea about the classes of objects.
 
- Supervised learning model helps us to solve various real-world problems such as fraud detection, spam filtering, etc.
+ 3. Supervised learning model helps us to solve various real-world problems such as fraud detection, spam filtering, etc.
 
 ### Disadvantages of Supervised Learning:
- Supervised learning models are not suitable for handling the complex tasks.
+ 1. Supervised learning models are not suitable for handling the complex tasks.
 
- Supervised learning cannot predict the correct output if the test data is different from the training dataset.
+ 2. Supervised learning cannot predict the correct output if the test data is different from the training dataset.
 
- Training required lots of computation times.
+ 3. Training required lots of computation times.
 
 ### 2. Unsupervised Learning
 
@@ -72,7 +70,7 @@ Unsupervised learning is a type of machine learning in which models are trained 
 
 The goal of unsupervised learning is to find the underlying structure of dataset, group that data according to similarities, and represent that dataset in a compressed format.
 
-s 
+![unsupervised](https://user-images.githubusercontent.com/112484744/218329130-9cfd9bd3-5acf-430f-a50c-fc53dd716a75.png)
 
 The unsupervised learning algorithm can be further categorized into two types of problems:
 #### 1. Clustering
@@ -89,14 +87,18 @@ There are two ways to apply the dimension reduction technique:
 
 Below is the list of some popular unsupervised learning algorithms:
 #### 1. K-means clustering
+![kmean](https://user-images.githubusercontent.com/112484744/218329174-65109993-efc1-4361-85f5-fd5ad8c05e2a.png)
+
 #### 2. Hierarchal clustering
+![h](https://user-images.githubusercontent.com/112484744/218329209-bf82348c-4334-4672-a5d2-677c628b7309.png)
+
 #### 3. DBSCAN
 #### 4. Principle Component Analysis
 
 ### Advantages of Unsupervised Learning
- Unsupervised learning is used for more complex tasks as compared to supervised learning because, in unsupervised learning, we don't have labeled input data.
+ 1. Unsupervised learning is used for more complex tasks as compared to supervised learning because, in unsupervised learning, we don't have labeled input data.
 
- Unsupervised learning is preferable as it is easy to get unlabeled data in comparison to labeled data.
+ 2. Unsupervised learning is preferable as it is easy to get unlabeled data in comparison to labeled data.
 
  ### Disadvantages of Unsupervised Learning
  Unsupervised learning is intrinsically more difficult than supervised learning as it does not have corresponding output.
