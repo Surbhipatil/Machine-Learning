@@ -19,7 +19,7 @@ In Supervised learning, a model is able to predict with the help of labelled dat
 
 Supervised learning can be further divided into two types of problems:
 #### 1. Regression: 
-It is used to understand the relationship between dependent and independent variables. When the output variable is real or continuous value we make use of classification.
+It is used to understand the relationship between dependent and independent variables. When the output variable is real or continuous value, we make use of classification.
 
 #### 2. Classification:
 When the output variable is categorical i.e. with two or more classes(yes/no, true/false), we make use of classification.
@@ -100,7 +100,7 @@ Below is the list of some popular unsupervised learning algorithms:
 
  2. Unsupervised learning is preferable as it is easy to get unlabeled data in comparison to labeled data.
 
- ### Disadvantages of Unsupervised Learning
+ ### Disadvantage of Unsupervised Learning
  Unsupervised learning is intrinsically more difficult than supervised learning as it does not have corresponding output.
 
  ### 3. Reinforcement
